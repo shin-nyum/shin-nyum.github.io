@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "dirt" # "air", "aqua", "contrast", "dark", "dirt", "
 
 # Site Settings
 locale                   : "ko-KR"
-title                    : "信念의 鳥人"
+title                    : "오늘 ++"
 title_separator          : "-"
 subtitle                 : "Study Hard, Work Hard, Play Harder" # site tagline that appears below site title in masthead
 name                     : "Shin-Nyum Park"
@@ -104,7 +104,7 @@ analytics:
 author:
   name             : "빌립박"
   avatar           : "/assets/images/profile.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "**데이터 분석**과 **일상사**를 남깁니다."
+  bio              : "**유용한 정보**와 **일상사**를 공유합니다."
   location         : "Seoul, Korea" #"Somewhere"
   email            :
   links:
