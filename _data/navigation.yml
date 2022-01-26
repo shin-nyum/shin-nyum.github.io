@@ -1,19 +1,19 @@
 # main links
 main:
   - title: "About"
-    url: https://shin-nyum.github.io/docs/about/
+    url: /about/
     # About
   - title: "Data Science"
-    url: https://shin-nyum.github.io/docs/about/
+    url: /data_science/
     # Python, R, SQL, Tensorflow, Pytorch, Vision, Optimization, Simulation
   - title: "Data Engineering"
-    url: https://shin-nyum.github.io/docs/about/
+    url: /data_engineering/
     # MLOps, Cloud, Spark, Database, Docker, Web, Linux
   - title: "Study"
-    url: https://shin-nyum.github.io/docs/about/
+    url: /study/
     # Lecture, Paper, Certificate
   - title: "Diary"
-    url: https://shin-nyum.github.io/docs/about/
+    url: /diary/
     # Trip, Exercise, Book
 
   # - title: "About"
