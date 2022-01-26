@@ -1,7 +1,21 @@
 # main links
 main:
-  - title: "Quick-Start Guide"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+  - title: "About"
+    url: https://shin-nyum.github.io/docs/about/
+    # About
+  - title: "Data Science"
+    url: https://shin-nyum.github.io/docs/about/
+    # Python, R, SQL, Tensorflow, Pytorch, Vision, Optimization, Simulation
+  - title: "Data Engineering"
+    url: https://shin-nyum.github.io/docs/about/
+    # MLOps, Cloud, Spark, Database, Docker, Web, Linux
+  - title: "Study"
+    url: https://shin-nyum.github.io/docs/about/
+    # Lecture, Paper, Certificate
+  - title: "Diary"
+    url: https://shin-nyum.github.io/docs/about/
+    # Trip, Exercise, Book
+
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
