@@ -116,7 +116,7 @@ author:
       # url: "https://your-website.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/NyumPark"
+#      url: "https://twitter.com/NyumPark"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
@@ -125,7 +125,10 @@ author:
       url: "https://github.com/shin-nyum/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://www.instagram.com/shin_nyum_park/"
+#      url: "https://www.instagram.com/shin_nyum_park/"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/shin-nyum-park-91b000159/"
 
 # Site Footer
 footer:
@@ -147,8 +150,10 @@ footer:
       # url:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://www.instagram.com/shin_nyum_park/"
-
+#      url: "https://www.instagram.com/shin_nyum_park/"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/shin-nyum-park-91b000159/"
 
 # Reading Files
 include:
