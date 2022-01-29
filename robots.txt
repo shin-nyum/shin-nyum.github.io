@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://shin-nyum.github.io/sitemap.xml
