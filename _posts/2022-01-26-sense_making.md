@@ -55,7 +55,7 @@ tags:
 레고 등을 컨설팅한 사례로 유명한 레드 어소시에이츠 (Red Associates) 의 창립자 
 크리스티안 마두스베르그(Christian Madsbjerg) 가 자신의 케이스 스터디를 엮어서 
 집대성한 '센스 메이킹' 을 생생한 목소리로 전한다.
-
+<br/>
 
 [comment]: <> ({: .notice--primary})
 ### **센스메이킹의 다섯가지 전략**
