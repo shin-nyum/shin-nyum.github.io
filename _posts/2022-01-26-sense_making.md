@@ -1,9 +1,8 @@
 ﻿---
 title: "북리뷰 - [센스메이킹] 이것은 빅데이터가 알려주지 않는 전략이다"
 last_modified_at: 2022-01-26 17:35:00 +0900
-categories: 
-  - Diary
-  - Book
+categories:
+  - Study
 tags:
   - 일상
   - 북리뷰

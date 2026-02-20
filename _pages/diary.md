@@ -1,7 +1,7 @@
 ---
 permalink: /diary/
 title: "Diary"
-toc: true
-toc_sticky: true
-toc_label: "MYSELF"
+layout: category
+taxonomy: "Diary"
+author_profile: true
 ---
